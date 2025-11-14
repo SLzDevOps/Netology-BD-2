@@ -18,7 +18,9 @@
 ![alt text](https://github.com/SLzDevOps/Netology-BD-2/blob/main/Screenshot_496.png).
 ![alt text](https://github.com/SLzDevOps/Netology-BD-2/blob/main/Screenshot_497.png).
 ![alt text](https://github.com/SLzDevOps/Netology-BD-2/blob/main/Screenshot_498.png).
+![alt text](https://github.com/SLzDevOps/Netology-BD-2/blob/main/Screenshot_500.png).
 
+https://github.com/SLzDevOps/Netology-BD-2/blob/main/Screenshot_500.png
 
 ### Задание 2
 
